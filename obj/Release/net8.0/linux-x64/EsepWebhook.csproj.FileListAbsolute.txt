@@ -15,3 +15,5 @@ D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\a
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json

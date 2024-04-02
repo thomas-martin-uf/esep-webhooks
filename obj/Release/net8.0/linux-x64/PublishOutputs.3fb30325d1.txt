@@ -3,4 +3,5 @@ D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\a
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
 D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
