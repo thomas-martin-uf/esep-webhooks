@@ -1,0 +1,17 @@
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.deps.json
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.runtimeconfig.json
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+D:\schoolwork\UF\spring_2024\CIS4930-Enterprise-Software-Engineering-Practices\aws_lambda_assignment\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
